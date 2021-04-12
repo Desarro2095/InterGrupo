@@ -1,0 +1,9 @@
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoServices\bin\Debug\netcoreapp3.1\AppInterGrupoServices.deps.json
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoServices\bin\Debug\netcoreapp3.1\AppInterGrupoServices.dll
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoServices\bin\Debug\netcoreapp3.1\AppInterGrupoServices.pdb
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoServices\obj\Debug\netcoreapp3.1\AppInterGrupoServices.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoServices\obj\Debug\netcoreapp3.1\AppInterGrupoServices.AssemblyInfo.cs
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoServices\obj\Debug\netcoreapp3.1\AppInterGrupoServices.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoServices\obj\Debug\netcoreapp3.1\AppInterGrupoServices.dll
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoServices\obj\Debug\netcoreapp3.1\AppInterGrupoServices.pdb
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoServices\obj\Debug\netcoreapp3.1\AppInterGrupoServices.csprojAssemblyReference.cache

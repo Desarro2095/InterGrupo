@@ -1,0 +1,33 @@
+<div class="row-mt-3">
+    <div class="col-lg-6">
+        <h3>Listado de ordenes</h3>
+    </div>
+</div>
+<table *ngIf="orders.length > 0" class="table table-hover mt-3">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Número de revisión</td>
+            <td>Fecha de orden</td>
+            <td>Número de usuario</td>
+            <td>Total</td>
+            <td>Comentario</td>
+            <td>Editar</td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let order of orders">
+            <td>{{order.salesOrderID}}</td>
+            <td>{{order.revisionNumber}}</td>
+            <td>{{order.orderDate}}</td>
+            <td>{{order.accountNumber}}</td>
+            <td>{{order.totalDue}}</td>
+            <td>{{order.comment}}</td>
+            <td><button type="button" class="btn btn-primary" [routerLink]='["/edit/" + order.salesOrderID]'>Agregar comentario</button></td>
+        </tr>
+    </tbody>
+</table>
+<div *ngIf="orders.length == 0" class="row at -5">
+    <h5>No hay ordenes para mostrar</h5>
+</div>

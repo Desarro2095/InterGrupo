@@ -1,0 +1,12 @@
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\obj\Debug\netcoreapp3.1\AppInterGrupoDAO.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\obj\Debug\netcoreapp3.1\AppInterGrupoDAO.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\obj\Debug\netcoreapp3.1\AppInterGrupoDAO.AssemblyInfo.cs
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\obj\Debug\netcoreapp3.1\AppInterGrupoDAO.csproj.CopyComplete
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\bin\Debug\netcoreapp3.1\AppInterGrupoDAO.deps.json
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\bin\Debug\netcoreapp3.1\AppInterGrupoDAO.dll
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\bin\Debug\netcoreapp3.1\AppInterGrupoDAO.pdb
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\bin\Debug\netcoreapp3.1\AppInterGrupoServices.dll
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\bin\Debug\netcoreapp3.1\AppInterGrupoServices.pdb
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\obj\Debug\netcoreapp3.1\AppInterGrupoDAO.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\obj\Debug\netcoreapp3.1\AppInterGrupoDAO.dll
+C:\Users\carlo\source\repos\AppInterGrupo\AppInterGrupoDAO\obj\Debug\netcoreapp3.1\AppInterGrupoDAO.pdb

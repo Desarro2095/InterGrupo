@@ -1,0 +1,16 @@
+<h3>Agregar comentario</h3>
+<form [formGroup]="editOrder" (ngSubmit)="addOrder()">
+    <div class="mb-3">
+        <label for="exampleFormControlTextarea1" class="form-label">Comentario</label>
+        <textarea formControlName="comment" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        <span *ngIf="editOrder.get('comment')?.invalid && editOrder.get('comment')?.touched" class="text-danger">
+            <strong>El comentario es requerido</strong>         
+        </span>
+    </div>
+    <div class="mb-3">
+        <button type="submit" [disabled]="editOrder.invalid" class="btn btn-primary">Agregar</button>
+    </div>
+    <div class="mb-3">
+        <button type="button" class="btn btn-primary" routerLink="/">Volver</button>
+    </div>
+</form>
